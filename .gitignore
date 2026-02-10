@@ -1,0 +1,19 @@
+# Dependencies managed by Composer.
+/vendor/
+
+# Configuration and sensitive files.
+sites/*/settings*.php
+sites/*/services*.yml
+sites/default/settings.php
+sites/default/settings.local.php
+
+# User-generated content.
+sites/*/files
+sites/*/private
+
+# Multi-site test environment.
+sites/simpletest
+
+# Optional: local environment.
+.env
+.env.*
