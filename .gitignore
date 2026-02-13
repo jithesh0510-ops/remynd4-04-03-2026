@@ -69,10 +69,10 @@ coverage/
 .ddev/mailhog/
 .ddev/db_snapshots/
 
-# --- Optional: uncomment if core/ and contrib are installed via Composer ---
+# --- Contrib (install via Composer; do not commit) ---
+/modules/contrib/
+/themes/contrib/
 # /core/
-# /modules/contrib/
-# /themes/contrib/
 # /libraries/
 
 # --- Project-specific optional ---

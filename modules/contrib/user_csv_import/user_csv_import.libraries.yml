@@ -1,5 +1,0 @@
-user_csv_import.admin_upload:
-  version: 1.x
-  dependencies:
-    - core/jquery
-    - core/drupalSettings

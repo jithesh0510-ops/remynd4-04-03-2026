@@ -1,8 +1,0 @@
-{
-  "name": "drupal/user_csv_import",
-  "type": "drupal-module",
-  "description": "User import module",
-  "license": "GPL-2.0-or-later",
-  "minimum-stability": "dev",
-  "require": {}
-}
